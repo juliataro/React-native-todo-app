@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "first-app",
+    "name": "Todo App",
     "slug": "first-app",
+    "privacy": "public",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
